@@ -1,0 +1,21 @@
+{
+  "name": "@super-code-candy/create-file-tree",
+  "version": "0.0.1",
+  "description": "使用node生成文件树",
+  "keywords": [
+    "node",
+    "文件树",
+    "file tree",
+    "@super-code-candy",
+    "create-file-tree"
+  ],
+  "author": "super-code-candy",
+  "license": "ISC",
+  "bin": {
+    "create-file-tree": "/bin/index.js"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/SuperCodeCandy/create-file-tree"
+  }
+}
